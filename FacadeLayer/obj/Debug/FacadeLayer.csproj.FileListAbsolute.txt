@@ -1,0 +1,14 @@
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\FacadeLayer\obj\Debug\FacadeLayer.csprojResolveAssemblyReference.cache
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\FacadeLayer\bin\Debug\FacadeLayer.dll
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\FacadeLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\FacadeLayer\bin\Debug\EntityLayer.dll
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\FacadeLayer\bin\Debug\EntityLayer.pdb
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\FacadeLayer\obj\Debug\FacadeLayer.dll
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\FacadeLayer\obj\Debug\FacadeLayer.pdb
+C:\Users\nahid\Desktop\WindowsFormsApplication15\FacadeLayer\bin\Debug\FacadeLayer.dll
+C:\Users\nahid\Desktop\WindowsFormsApplication15\FacadeLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\nahid\Desktop\WindowsFormsApplication15\FacadeLayer\bin\Debug\EntityLayer.dll
+C:\Users\nahid\Desktop\WindowsFormsApplication15\FacadeLayer\bin\Debug\EntityLayer.pdb
+C:\Users\nahid\Desktop\WindowsFormsApplication15\FacadeLayer\obj\Debug\FacadeLayer.csprojResolveAssemblyReference.cache
+C:\Users\nahid\Desktop\WindowsFormsApplication15\FacadeLayer\obj\Debug\FacadeLayer.dll
+C:\Users\nahid\Desktop\WindowsFormsApplication15\FacadeLayer\obj\Debug\FacadeLayer.pdb

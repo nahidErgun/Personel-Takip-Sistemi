@@ -1,0 +1,49 @@
+c:\users\ytuce\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.csproj.GenerateResource.Cache
+c:\users\ytuce\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.exe
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.csprojResolveAssemblyReference.cache
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.Properties.Resources.resources
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.Giris.resources
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\BussinesLogicLayer.dll
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityLayer.dll
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\FacadeLayer.dll
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\BussinesLogicLayer.pdb
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityLayer.pdb
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\FacadeLayer.pdb
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.Muhasebe.resources
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.Form1.resources
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.Muhasebee.resources
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.pdb
+C:\Users\YTUCE\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.Form11.resources
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.csprojResolveAssemblyReference.cache
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.BolumEkle.resources
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.ButceGuncelle.resources
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.DeletePersonel.resources
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.Form11.resources
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.Giris.resources
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.InsanKaynaklari.resources
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.MaasEkle.resources
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.MaasGuncelle.resources
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.PersonelListele.resources
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.Properties.Resources.resources
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.Uretim.resources
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.UrunEkle.resources
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.UrunFiyatGuncellemecs.resources
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.UrunListesi.resources
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.UrunSil.resources
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.Form1.resources
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.Muhasebee.resources
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.csproj.GenerateResource.Cache
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe.config
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\BusinessLogicLayers.dll
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityLayer.dll
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\FacadeLayer.dll
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\BusinessLogicLayers.pdb
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\EntityLayer.pdb
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\FacadeLayer.pdb
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.exe
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.pdb
+C:\Users\nahid\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\PROJE.personelekleme.resources

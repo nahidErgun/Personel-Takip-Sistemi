@@ -1,0 +1,11 @@
+c:\users\ytuce\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication3.Giris.resources
+c:\users\ytuce\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.Properties.Resources.resources
+c:\users\ytuce\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.csproj.GenerateResource.Cache
+c:\users\ytuce\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+c:\users\ytuce\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+c:\users\ytuce\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.exe
+c:\users\ytuce\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.pdb
+c:\users\ytuce\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication3.İnsanKaynakları.resources
+c:\users\ytuce\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication3.Muhasebe.resources
+c:\users\ytuce\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\ytuce\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication3.Muhasebee.resources

@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DB99926A-6A0F-4479-AEFA-231C3422F9E0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PROJE</RootNamespace>
+    <AssemblyName>WindowsFormsApplication15</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BolumEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BolumEkle.Designer.cs">
+      <DependentUpon>BolumEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ButceGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ButceGuncelle.Designer.cs">
+      <DependentUpon>ButceGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeletePersonel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeletePersonel.Designer.cs">
+      <DependentUpon>DeletePersonel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form11.Designer.cs">
+      <DependentUpon>Form11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InsanKaynaklari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsanKaynaklari.Designer.cs">
+      <DependentUpon>InsanKaynaklari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaasEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaasEkle.Designer.cs">
+      <DependentUpon>MaasEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaasGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaasGuncelle.Designer.cs">
+      <DependentUpon>MaasGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="personelekleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="personelekleme.Designer.cs">
+      <DependentUpon>personelekleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelListele.Designer.cs">
+      <DependentUpon>PersonelListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uretim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uretim.Designer.cs">
+      <DependentUpon>Uretim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunEkle.Designer.cs">
+      <DependentUpon>UrunEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunFiyatGuncellemecs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunFiyatGuncellemecs.Designer.cs">
+      <DependentUpon>UrunFiyatGuncellemecs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunListesi.Designer.cs">
+      <DependentUpon>UrunListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunSil.Designer.cs">
+      <DependentUpon>UrunSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="üUretim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="üUretim.Designer.cs">
+      <DependentUpon>üUretim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Muhasebee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Muhasebee.Designer.cs">
+      <DependentUpon>Muhasebee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BolumEkle.resx">
+      <DependentUpon>BolumEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ButceGuncelle.resx">
+      <DependentUpon>ButceGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeletePersonel.resx">
+      <DependentUpon>DeletePersonel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form11.resx">
+      <DependentUpon>Form11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsanKaynaklari.resx">
+      <DependentUpon>InsanKaynaklari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaasEkle.resx">
+      <DependentUpon>MaasEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaasGuncelle.resx">
+      <DependentUpon>MaasGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="personelekleme.resx">
+      <DependentUpon>personelekleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelListele.resx">
+      <DependentUpon>PersonelListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Uretim.resx">
+      <DependentUpon>Uretim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunEkle.resx">
+      <DependentUpon>UrunEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunFiyatGuncellemecs.resx">
+      <DependentUpon>UrunFiyatGuncellemecs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunListesi.resx">
+      <DependentUpon>UrunListesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunSil.resx">
+      <DependentUpon>UrunSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="üUretim.resx">
+      <DependentUpon>üUretim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Muhasebee.resx">
+      <DependentUpon>Muhasebee.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLogicLayers\BusinessLogicLayers.csproj">
+      <Project>{b352b06b-8ad2-40d5-bc34-a088906ad596}</Project>
+      <Name>BusinessLogicLayers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EntityLayer\EntityLayer.csproj">
+      <Project>{33F4180C-0EAA-4312-881C-2DCB91620EC7}</Project>
+      <Name>EntityLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

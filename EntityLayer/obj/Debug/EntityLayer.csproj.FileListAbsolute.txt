@@ -1,0 +1,8 @@
+c:\users\ytuce\documents\visual studio 2010\Projects\WindowsFormsApplication15\EntityLayer\bin\Debug\EntityLayer.dll
+c:\users\ytuce\documents\visual studio 2010\Projects\WindowsFormsApplication15\EntityLayer\bin\Debug\EntityLayer.pdb
+c:\users\ytuce\documents\visual studio 2010\Projects\WindowsFormsApplication15\EntityLayer\obj\Debug\EntityLayer.dll
+c:\users\ytuce\documents\visual studio 2010\Projects\WindowsFormsApplication15\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\nahid\Desktop\WindowsFormsApplication15\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\nahid\Desktop\WindowsFormsApplication15\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\nahid\Desktop\WindowsFormsApplication15\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\nahid\Desktop\WindowsFormsApplication15\EntityLayer\obj\Debug\EntityLayer.pdb
